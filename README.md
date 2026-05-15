@@ -31,6 +31,7 @@ Microsoft MVP for Intune & AI, Head of AI at Epic Fusion, and builder of practic
 
 ## Connect
 
-- Website: [jannikreinhard.com](https://jannikreinhard.com)
+- Blog: [jannikreinhard.com](https://jannikreinhard.com/)
+- LinkedIn: [jannik-r](https://www.linkedin.com/in/jannik-r/)
+- X: [@jannik_reinhard](https://x.com/jannik_reinhard)
 - GitHub: [@JayRHa](https://github.com/JayRHa)
-- X / Twitter: [@Jannik_Reinhard](https://x.com/Jannik_Reinhard)
