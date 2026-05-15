@@ -15,18 +15,19 @@ Microsoft MVP for Intune & AI, Head of AI at Epic Fusion, and builder of practic
 
 | Group | Repositories |
 | --- | --- |
-| Intune & Endpoint Management | `Intune-Scripts`, `EndpointAnalyticsRemediationScripts`, `Intune-App-Creator`, `Intune-Device-Troubleshooter`, `Custom-Compliance-Scripts` |
-| Remediation & Automation | `Remediation-Creator`, `RemediationSyncer`, `IntuneAgent`, `IntuneDevOps` |
-| Reporting & Content | `PowerBiDashboards`, `Presentations`, `Book` |
-| CLI Tools | `blink-cli`, `robopack-cli`, `moco-cli`, `reddit-cli`, `elgato-cli`, `cookidoo-cli`, `accuweather-cli` |
-| Productivity & Lab Projects | `Document-Manager`, `System-Information-Tool`, `CompanyPortalSystemTrayTool` |
+| Intune & Endpoint Management | `IntuneScripts`, `EndpointAnalyticsRemediationScripts`, `IntuneAppCreator`, `IntuneDeviceTroubleshooter`, `CustomComplianceScripts` |
+| Remediation & Automation | `RemediationCreator`, `RemediationSyncer`, `IntuneAgent`, `IntuneDevOps` |
+| Reporting & Content | `PowerBIDashboards`, `Presentations`, `EndpointManagementBook` |
+| CLI Tools | `BlinkCLI`, `RoboPackCLI`, `MocoCLI`, `RedditCLI`, `ElgatoCLI`, `CookidooCLI`, `AccuWeatherCLI` |
+| Productivity & Lab Projects | `DocumentManager`, `DocumentManagement`, `SystemInformationTool`, `CompanyPortalSystemTrayTool` |
+| Home & Lab | `HomeAssistant`, `HomeAssistantPrivate`, `Terraform`, `TerraformVisqo` |
 
 ## Repository Standards
 
-- Repository names stay stable to preserve links already embedded in articles, docs, badges, and external sites.
+- Repository names use PascalCase without separators, following the `EndpointAnalyticsRemediationScripts` naming style.
+- READMEs use a shared Endpoint-style top section with a title, tagline, action line, badges, summary, and quick start.
+- Existing project documentation is preserved below the shared top section instead of being removed.
 - Repository topics describe platform, technology, and use case.
-- READMEs start with the actual project documentation and keep generated portfolio metadata out of the top section.
-- Public repositories are kept focused on reusable tools, scripts, content, and community assets.
 
 ## Connect
 
