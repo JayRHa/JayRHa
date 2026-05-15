@@ -25,8 +25,8 @@ Microsoft MVP for Intune & AI, Head of AI at Epic Fusion, and builder of practic
 ## Repository Standards
 
 - Repository names use PascalCase without separators, following the `EndpointAnalyticsRemediationScripts` naming style.
-- READMEs use a shared Endpoint-style top section with a title, tagline, action line, badges, summary, and quick start.
-- Existing project documentation is preserved below the shared top section instead of being removed.
+- READMEs use a shared Endpoint-style top section with a title, tagline, action line, badges, project context, Mermaid workflow, and quick start.
+- Repository-specific documentation is integrated below the shared context as `Project Documentation` instead of being left as a detached appendix.
 - Repository topics describe platform, technology, and use case.
 
 ## Connect
