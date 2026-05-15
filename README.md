@@ -15,17 +15,17 @@ Microsoft MVP for Intune & AI, Head of AI at Epic Fusion, and builder of practic
 
 | Group | Repositories |
 | --- | --- |
-| Intune & Endpoint Management | `intune-scripts`, `endpoint-analytics-remediation-scripts`, `intune-app-creator`, `intune-device-troubleshooter`, `intune-custom-compliance-scripts` |
-| Remediation & Automation | `intune-remediation-creator`, `intune-remediation-syncer`, `intune-agent`, `intune-devops` |
-| Reporting & Content | `power-bi-dashboards`, `presentations`, `endpoint-management-book` |
+| Intune & Endpoint Management | `Intune-Scripts`, `EndpointAnalyticsRemediationScripts`, `Intune-App-Creator`, `Intune-Device-Troubleshooter`, `Custom-Compliance-Scripts` |
+| Remediation & Automation | `Remediation-Creator`, `RemediationSyncer`, `IntuneAgent`, `IntuneDevOps` |
+| Reporting & Content | `PowerBiDashboards`, `Presentations`, `Book` |
 | CLI Tools | `blink-cli`, `robopack-cli`, `moco-cli`, `reddit-cli`, `elgato-cli`, `cookidoo-cli`, `accuweather-cli` |
-| Productivity & Lab Projects | `document-manager`, `system-information-tool`, `company-portal-system-tray-tool` |
+| Productivity & Lab Projects | `Document-Manager`, `System-Information-Tool`, `CompanyPortalSystemTrayTool` |
 
 ## Repository Standards
 
-- Repository names use lowercase kebab-case.
+- Repository names stay stable to preserve links already embedded in articles, docs, badges, and external sites.
 - Repository topics describe platform, technology, and use case.
-- READMEs start with a consistent project summary block while preserving the original project documentation below it.
+- READMEs start with the actual project documentation and keep generated portfolio metadata out of the top section.
 - Public repositories are kept focused on reusable tools, scripts, content, and community assets.
 
 ## Connect
