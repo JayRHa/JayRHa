@@ -30,17 +30,20 @@ I work where **modern device management**, **automation**, and **AI** collide �
 
 ---
 
-## 🧰 The msnugget toolbox
+## 📦 Featured projects
 
-Free, privacy-first, 100% client-side tools I co-build for Microsoft admins — all live at **[msnugget.com](https://msnugget.com/)**:
+Open-source tooling I ship for the Intune & Microsoft 365 community:
 
-| Tool | What it does |
+| Project | What it does |
 |---|---|
-| [**CMTrace.dev**](https://cmtrace.dev) | CMTrace / ConfigMgr log viewer, right in the browser |
-| [**MSFinder**](https://msfinder.dev) | Find any Microsoft admin portal setting in one search |
-| [**MSChanges**](https://mschanges.dev) | Track every change to Microsoft's documentation |
-| [**M365 Change Digest**](https://mcd.msnugget.com) | Every M365 roadmap & Message Center change in one place |
-| [**Error Hunter**](https://errorhunter.app) | Resolve any Intune / Windows error code instantly |
+| [**EndpointAnalyticsRemediationScripts**](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) ⭐620 | Ready-to-use Intune Endpoint Analytics proactive remediations |
+| [**IntuneScripts**](https://github.com/JayRHa/IntuneScripts) ⭐190 | A practical PowerShell toolbox for Intune admins |
+| [**IntuneAgent**](https://github.com/JayRHa/IntuneAgent) 🤖 | AI agent that automates Intune device management |
+| [**AgentSkills**](https://github.com/JayRHa/AgentSkills) 🧠 | Community-driven library of Agent Skills (`SKILL.md` + scripts) |
+| [**IntuneDeviceTroubleshooter**](https://github.com/JayRHa/IntuneDeviceTroubleshooter) | Diagnose & fix issues on Intune-managed Windows endpoints |
+| [**IntuneAppCreator**](https://github.com/JayRHa/IntuneAppCreator) | Automate packaging & deployment of Intune Win32 apps |
+
+…and a small army of **agent-friendly CLIs** (`MicrosoftGraphCLI`, `IntuneEvidenceCLI`, `AzureOpsCLI` & more) over on my [repos](https://github.com/JayRHa?tab=repositories).
 
 ---
 
