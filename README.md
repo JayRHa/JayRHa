@@ -1,80 +1,35 @@
-<div align="center">
+# Jannik Reinhard
 
-# `~ whoami`
+**Microsoft MVP for Security (Intune) and AI Platform · Head of AI at [Epic Fusion](https://epicfusion.com)**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&width=600&lines=Jannik+Reinhard;Dual+Microsoft+MVP+%E2%80%94+Intune+%26+AI;Head+of+AI+%40+Epic+Fusion;I+turn+IT+ops+into+AI+agents)](https://git.io/typing-svg)
+I build practical AI agents and endpoint automation for Microsoft environments. My work spans open-source Intune tooling, Microsoft Foundry patterns, books, talks, and production AI systems used by more than 70,000 people.
 
-</div>
+[Blog](https://jannikreinhard.com) · [LinkedIn](https://www.linkedin.com/in/jannik-r/) · [YouTube](https://www.youtube.com/@ModernDevMgmt) · [X](https://x.com/jannik_reinhard)
 
----
+## Current focus
 
-```yaml
-name:       Jannik Reinhard
-role:       Head of AI @ Epic Fusion
-mvp:        [ Security · Intune, AI Platform · Azure AI Services ]   # dual MVP
-building:   AI framework serving 70k+ active users
-mission:    make Microsoft endpoint & IT operations run themselves
-motto:      if I touch it twice, I automate it once
-```
+- Agentic workflows for endpoint and IT operations
+- Microsoft Foundry architecture, orchestration, observability, and governance
+- Open tooling for the Intune and Microsoft 365 community
+- Practical technical writing, books, and conference sessions
 
-I work where **modern device management**, **automation**, and **AI** collide — shipping agentic workflows, endpoint tooling, and AI that does the boring parts of IT so admins don't have to.
+## Selected open source
 
----
+- [Endpoint Analytics Remediation Scripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) — production-ready Intune detection and remediation packages
+- [Intune Scripts](https://github.com/JayRHa/IntuneScripts) — practical PowerShell automation for Intune administrators
+- [Agent Skills](https://github.com/JayRHa/AgentSkills) — community-driven skills for Codex, Claude, Gemini CLI, Cursor, and other agents
+- [Document Manager](https://github.com/JayRHa/DocumentManager) — self-hosted, AI-assisted document management
+- [Microsoft Foundry book code](https://github.com/JayRHa/foundry-book-code) — runnable examples for agents, infrastructure, evaluation, and operations
+- [AI, Automation and Analytics book code](https://github.com/JayRHa/intune-aaa-book-code) — Microsoft Graph, KQL, Device Query, automation, grounding, and Foundry examples
 
-## 🤖 What I'm building right now
+Explore the full collection in my [repositories](https://github.com/JayRHa?tab=repositories).
 
-- **Agentic workflows** for AI-powered endpoint operations
-- An **AI framework** in production with **70k+ active users**
-- Open tooling for the **Intune & Microsoft 365** community
-- Talks & write-ups that turn hard Microsoft topics into something usable
+## Writing and speaking
 
----
+I publish hands-on guidance at [jannikreinhard.com](https://jannikreinhard.com) and short Microsoft admin notes at [msnugget.com](https://msnugget.com). I speak about Intune, Microsoft Foundry, AI agents, and automation at community and industry events.
 
-## 📦 Featured projects
+## Core technologies
 
-Open-source tooling I ship for the Intune & Microsoft 365 community:
+`Microsoft Intune` · `Microsoft Graph` · `Microsoft Foundry` · `Azure AI` · `PowerShell` · `Python` · `Terraform` · `GitHub Actions`
 
-| Project | What it does |
-|---|---|
-| [**EndpointAnalyticsRemediationScripts**](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) ⭐620 | Ready-to-use Intune Endpoint Analytics proactive remediations |
-| [**IntuneScripts**](https://github.com/JayRHa/IntuneScripts) ⭐190 | A practical PowerShell toolbox for Intune admins |
-| [**IntuneAgent**](https://github.com/JayRHa/IntuneAgent) 🤖 | AI agent that automates Intune device management |
-| [**AgentSkills**](https://github.com/JayRHa/AgentSkills) 🧠 | Community-driven library of Agent Skills (`SKILL.md` + scripts) |
-| [**IntuneDeviceTroubleshooter**](https://github.com/JayRHa/IntuneDeviceTroubleshooter) | Diagnose & fix issues on Intune-managed Windows endpoints |
-| [**IntuneAppCreator**](https://github.com/JayRHa/IntuneAppCreator) | Automate packaging & deployment of Intune Win32 apps |
-
-…and a small army of **agent-friendly CLIs** (`MicrosoftGraphCLI`, `IntuneEvidenceCLI`, `AzureOpsCLI` & more) over on my [repos](https://github.com/JayRHa?tab=repositories).
-
----
-
-## ✍️ Where I share
-
-- 🧠 **Blog** → [jannikreinhard.com](https://jannikreinhard.com) — deep dives on Intune, Azure AI & automation
-- ⚡ **Quick Admin Nuggets** → [msnugget.com](https://msnugget.com) — short, practical M365/Intune/AI tips
-- 🎤 **Stages** → MMS · Workplace Ninja · Modern Endpoint Management Summit & more
-- 💬 **Community** → active in the largest Intune circles on LinkedIn & Discord
-
----
-
-## 🛠️ Tech I reach for
-
-`PowerShell` · `Python` · `Azure OpenAI / Azure AI` · `Microsoft Graph` · `Microsoft Intune` · `Terraform` · `GitHub Actions` · a worrying number of CLIs
-
----
-
-## 🌍 Find me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jannik-r/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
-<a href="https://x.com/jannik_reinhard" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="X" /></a>
-<a href="https://www.youtube.com/@ModernDevMgmt/featured" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube" /></a>
-<a href="https://jannikreinhard.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" alt="Blog" /></a>
-</p>
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayRHa&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-
-> *Automating endpoints — and everything else — one agent at a time.*
-
-</div>
+> If I touch it twice, I automate it once.
