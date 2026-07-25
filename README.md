@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/collection.svg" alt="Jannik Reinhard — secure AI agents, Microsoft Foundry, Intune and Azure" width="100%">
   </a>
   <h1>Jannik Reinhard</h1>
-  <p><strong>I help enterprises ship secure AI agents.</strong></p>
+  <p><strong>I help enterprises ship secure AI agents | Head of AI @ Epic Fusion | 5x Microsoft MVP (AI Platform + Security) | Microsoft Foundry · Intune · Azure</strong></p>
   <p>
   <a href="https://jannikreinhard.com/"><img src="https://img.shields.io/badge/Website-146CDD?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Website"></a>
   <a href="https://github.com/JayRHa"><img src="https://img.shields.io/badge/GitHub-081427?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@jannikreinhard"><img src="https://img.shields.io/badge/YouTube-146CDD?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@jannikreinhard"><img src="https://img.shields.io/badge/TikTok-081427?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok"></a>
 </p>
-  <p><sub>Microsoft MVP · Open Source · Community · Documentation · Practical by design</sub></p>
+  <p><sub>Driving AI with passion · Microsoft Foundry · Intune · Azure</sub></p>
 </div>
 <!-- jr-brand:end -->
 
