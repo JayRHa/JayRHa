@@ -1,7 +1,7 @@
 <!-- jr-brand:start -->
 <div align="center">
   <a href="https://jannikreinhard.com/">
-    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/collection.svg" alt="Jannik Reinhard — secure AI agents, Microsoft Foundry, Intune and Azure" width="100%">
+    <img src="./assets/github-profile-header.png" alt="Jannik Reinhard — Driving AI with passion" width="100%">
   </a>
   <h1>Jannik Reinhard</h1>
   <p><strong>I help enterprises ship secure AI agents | Head of AI @ Epic Fusion | 5x Microsoft MVP (AI Platform + Security) | Microsoft Foundry · Intune · Azure</strong></p>
